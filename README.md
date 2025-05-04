@@ -16,9 +16,7 @@ It has **two main parts**:
 - **Discriminator (D)**:  
   - Tries to tell the difference between real and fake data.
 
----
-
-## 🎮 How Does the Adversarial Process Work?
+##  How Does the Adversarial Process Work?
 
 Think of it like a game between a **counterfeit artist** and a **detective**:
 
@@ -36,7 +34,6 @@ They are trained **together**:
 
 Eventually, the **generator gets so good**, the **discriminator can’t tell fake from real**.
 
----
 
 ## 🎯 Goals of Each Part
 
@@ -45,9 +42,8 @@ Eventually, the **generator gets so good**, the **discriminator can’t tell fak
 | Generator (G)  | Fool the discriminator with fake data       |
 | Discriminator (D) | Tell apart real data from fake data        |
 
----
 
-## ✅ Summary
+## Summary
 
 - GANs are powerful tools for generating fake-but-real-looking data.
 - They work by training two models (G and D) to compete and improve.
