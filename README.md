@@ -30,12 +30,12 @@ They are trained **together**:
 - Discriminator learns to spot fake data better.
 - Generator learns to make more realistic fakes.
 
-> Over time, both improve through competition.
+-Over time, both improve through competition.
 
 Eventually, the **generator gets so good**, the **discriminator can’t tell fake from real**.
 
 
-## 🎯 Goals of Each Part
+## Goals of Each Part
 
 | Component      | Goal                                        |
 |----------------|---------------------------------------------|
